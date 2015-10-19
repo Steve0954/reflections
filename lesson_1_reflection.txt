@@ -58,6 +58,3 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
 	Code versioning and comparing
 
- What happens when you initialize a repository? Why do you need to do it?
- 
-    Respoitory file (hidden) are created to allow commit status to be tracked   
