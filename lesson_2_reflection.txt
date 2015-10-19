@@ -1,0 +1,7 @@
+ What happens when you initialize a repository? Why do you need to do it?
+ 
+    Respoitory file (hidden) are created to allow commit status to be tracked  
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area provides a location for modified file that git has added. 
